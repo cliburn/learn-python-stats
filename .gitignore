@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+haiku.txt
+haiku_alt.txt
+jack.txt
+
+*_temp*
 
 # Distribution / packaging
 .Python
