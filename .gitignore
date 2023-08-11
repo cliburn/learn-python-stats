@@ -15,6 +15,7 @@ jack.txt
 data.csv
 
 *_temp*
+*Copy*
 
 # Distribution / packaging
 .Python
