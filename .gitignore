@@ -14,6 +14,10 @@ haiku_alt.txt
 jack.txt
 data.csv
 
+data/precip*
+tl_2019_us_county.*
+*.png
+
 *_temp*
 *Copy*
 
