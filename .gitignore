@@ -14,6 +14,8 @@ haiku_alt.txt
 jack.txt
 data.csv
 
+config.py
+
 data/precip*
 tl_2019_us_county.*
 *.png
