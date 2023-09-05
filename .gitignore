@@ -13,6 +13,8 @@ haiku.txt
 haiku_alt.txt
 jack.txt
 data.csv
+best_pipeline.pkl
+requirements.txt
 
 data/*
 catboost_info/*
