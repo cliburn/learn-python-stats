@@ -7,6 +7,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Programming_Hwk_1.ipynb
+
 # C extensions
 *.so
 haiku.txt
